@@ -20,3 +20,5 @@ import os
 os.getcwd()
 os.chdir(r"C:\Users\jgoldberg\Python")
 os.listdir()
+
+yup
